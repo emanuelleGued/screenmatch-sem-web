@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 
 public class Principal {
     private final String ENDERECO = "https://omdbapi.com/?t=";
-    private final String API_KEY = "&apikey=7db19434";
+    private final String API_KEY = "chave";
     private Scanner sc = new Scanner(System.in);
     private ConsumoApi consumoApi = new ConsumoApi();
     private ConverteDados conversor = new ConverteDados();
