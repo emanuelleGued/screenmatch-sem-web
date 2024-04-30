@@ -9,7 +9,7 @@ import br.com.alura.screenmatch.service.ConverteDados;
 
 import java.util.*;
 import java.util.stream.Collectors;
-// testando
+
 public class Principal {
     private final String ENDERECO = "https://omdbapi.com/?t=";
     private final String API_KEY = "chave";
